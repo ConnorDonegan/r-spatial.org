@@ -1,7 +1,7 @@
 ---
 title: "How to load and save vector data in R"
 author: "Krzysztof Dyba"
-date:  "08 December, 2023"
+date:  "26 June, 2024"
 comments: false
 layout: post
 categories: r
